@@ -30,7 +30,9 @@ Key details from the `Vagrantfile`:
     ```
 
 3. Change Vagrantfile config if required ( like changing private ip address, changing static template website URL )
+
 at line 35  ==>  config.vm.network "private_network", ip: "192.168.33.10"
+
 at line 82  ==>  wget https://www.tooplate.com/zip-templates/2144_parallax_depth.zip
 
 4. Start the VM and provision it:
@@ -40,6 +42,7 @@ at line 82  ==>  wget https://www.tooplate.com/zip-templates/2144_parallax_depth
     ```
 
 After configuration, Open browser and enter your private ip address `192.168.33.10` in URL tab. 
+
 Your static website is live on local machine.
 
 5. To connect to the VM for debugging or inspection:
