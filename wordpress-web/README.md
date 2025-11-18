@@ -107,13 +107,3 @@ Notes:
 
 	`vagrant destroy -f`
 
-**License**
-This repository contains example provisioning code for development/demo
-purposes. Use and adapt as you like.
-
-If you'd like, I can also:
-- Add an example `Vagrantfile` variable block for customizing DB credentials
-- Add a synced-folder example that maps the project into `/srv/www`
-
----
-Updated to include full usage, provisioning, and troubleshooting instructions.
