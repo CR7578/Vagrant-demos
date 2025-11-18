@@ -19,10 +19,15 @@ Key details from the `Vagrantfile`:
 
 1. Clone the Vagrant-demos Git repo
 
-	`git clone https://github.com/CR7578/Vagrant-demos.git`
+	```bash 
+    git clone https://github.com/CR7578/Vagrant-demos.git
+    ```
 
 2. Change directory to vagrant-demos
-    `cd Vagrant-demos/static-web`
+
+    ```bash
+    cd Vagrant-demos/static-web
+    ```
 
 3. Change Vagrantfile config if required ( like changing private ip address, changing static template website URL )
 at line 35  ==>  config.vm.network "private_network", ip: "192.168.33.10"
@@ -30,7 +35,10 @@ at line 82  ==>  wget https://www.tooplate.com/zip-templates/2144_parallax_depth
 
 4. Start the VM and provision it:
 
-	`vagrant up`
+	```bash
+    vagrant up
+    ```
+
 After configuration, Open browser and enter your private ip address `192.168.33.10` in URL tab. 
 Your static website is live on local machine.
 
