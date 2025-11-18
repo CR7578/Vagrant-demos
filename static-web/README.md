@@ -10,8 +10,6 @@ Key details from the `Vagrantfile`:
 
 **Purpose:** Provide a reproducible VM to host and test static web content locally.
 
-![Vagrantfile](../assets/Vagrantfile.png)
-
 ![Static-web](../assets/static-web.png)
 
 **Prerequisites**
