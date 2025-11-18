@@ -10,15 +10,6 @@ The README files inside each project contain full details. This top-level
 README gives an overview and quick start instructions for both demos and
 references the screenshots located in the `assets/` folder.
 
-**Table of Contents**
-- **Overview**
-- **Projects**
-- **Quick Start**
-- **Common Commands**
-- **Images**
-- **Troubleshooting**
-- **Contributing**
-
 **Overview**
 
 Each subfolder (`static-web` and `wordpress-web`) contains a `Vagrantfile`
@@ -83,11 +74,15 @@ with web content.
 Screenshots and supporting images are stored in the `assets/` folder. Below
 are a few examples used by the project READMEs:
 
-**Static-web**
+# Static-web
+
+---
 
 ![Static site preview](assets/static-web.png)
 
-**wordpress-web**
+# wordpress-web
+
+---
 
 ![WordPress install screen](assets/wordpress-install.png)
 ![WordPress setup](assets/wordpress-setup.png)
