@@ -76,13 +76,9 @@ are a few examples used by the project READMEs:
 
 # Static-web
 
----
-
 ![Static site preview](assets/static-web.png)
 
 # wordpress-web
-
----
 
 ![WordPress install screen](assets/wordpress-install.png)
 ![WordPress setup](assets/wordpress-setup.png)
