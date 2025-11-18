@@ -40,7 +40,9 @@ Relevant provisioning excerpts (see `Vagrantfile`):
 
 2. Boot the VM (this runs the provisioning script on first `up`):
 
-	 `vagrant up`
+	 ```bash
+     vagrant up
+     ```
 
 3. Open your browser and visit:
 
