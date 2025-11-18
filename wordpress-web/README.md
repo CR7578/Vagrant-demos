@@ -1,0 +1,1 @@
+## This Vagrantfile is configured to run wordpress website.
