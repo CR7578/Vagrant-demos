@@ -10,6 +10,10 @@ Key details from the `Vagrantfile`:
 
 **Purpose:** Provide a reproducible VM to host and test static web content locally.
 
+![Vagrantfile](../assets/Vagrantfile.png)
+
+![Static-web](../assets/static-web.png)
+
 **Prerequisites**
 - Install Vagrant (recommended >= 2.2.x): https://www.vagrantup.com/
 - Install a provider such as VirtualBox (recommended) or another supported hypervisor.
